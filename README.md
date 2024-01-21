@@ -8,7 +8,7 @@
 
 <br/>
 
-<div align="center">
+<div>
  
  - 🎲 Software Developer at JPMorgan Chase & Co. || Ex. Member Of Technical Staff @Oracle || <a href="https://topmate.io/rahul_kumar_295">I am in Topmate</a>.
 - 🌱 I have 5+ years of experience in multiple-technology Java 8+, Go Lang, Spring, Spring Boot, AWS, and Microservices with excellent technical skills & communication abilities, with experience in the field of Storage and Cloud Computing (AWS) which cover intensive exposure to Design, Troubleshooting, Implementation, Deployment, and Migrations.
