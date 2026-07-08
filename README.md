@@ -76,7 +76,9 @@ I am a Passionate programmer. Enjoy solving complex coding problems, and learnin
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rahulkumarsahu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github" alt="GitHub Stats"/>
-<img width="49%" src="https://streak-stats.demolab.com/?user=rahulkumarsahu&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6E40&currStreakLabel=58A6FF" alt="GitHub Streak"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=rahulkumarsahu&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6E40&currStreakLabel=58A6FF" alt="GitHub Streak"/>
+
+
 
 <br/><br/>
 
