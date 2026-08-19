@@ -4,7 +4,7 @@
 
 # Rahul Kumar
 
-### Senior Backend Engineer (SDE3) · Distributed Systems · Cloud & Platform Engineering
+### 🚀 Senior Backend Engineer (SDE3) · Distributed Systems · Cloud & Platform Engineering
 
 **Software Developer at JPMorgan Chase & Co. · Former Member of Technical Staff at Oracle · 8+ years in backend engineering**
 
@@ -20,20 +20,20 @@
 
 </div>
 
-## About Me
+## 👋 About Me
 
 I am a **Senior Backend Engineer** with **8+ years of experience** designing, building, and operating scalable backend systems, distributed platforms, and cloud-native infrastructure. I currently work at **JPMorgan Chase & Co.** and previously served as a **Member of Technical Staff at Oracle**.
 
 My core expertise spans **Java, Golang, Spring Boot, microservices, AWS, distributed systems, CI/CD, and platform engineering**. I focus on making complex systems faster, more resilient, easier to operate, and more productive for developers.
 
-- **Backend:** Java 8–21+, Golang, Spring Boot, Spring MVC, Reactive Java, REST APIs
-- **Architecture:** Distributed systems, microservices, system design, fault-tolerant services
-- **Cloud & Platform:** AWS, serverless architecture, Terraform, Docker, Kubernetes, Helm, ECS Fargate
-- **Delivery:** CI/CD, Jenkins, container build systems, developer productivity, cloud migrations
-- **Reliability:** Prometheus, Grafana, Redis Sentinel, rate limiting, circuit breakers, caching
-- **AI Engineering:** GenAI, Model Context Protocol (MCP), AI-assisted diagnostics and developer tooling
+- ☕ **Backend:** Java 8–21+, Golang, Spring Boot, Spring MVC, Reactive Java, REST APIs
+- 🏗️ **Architecture:** Distributed systems, microservices, system design, fault-tolerant services
+- ☁️ **Cloud & Platform:** AWS, serverless architecture, Terraform, Docker, Kubernetes, Helm, ECS Fargate
+- ⚙️ **Delivery:** CI/CD, Jenkins, container build systems, developer productivity, cloud migrations
+- 📊 **Reliability:** Prometheus, Grafana, Redis Sentinel, rate limiting, circuit breakers, caching
+- 🤖 **AI Engineering:** GenAI, Model Context Protocol (MCP), AI-assisted diagnostics and developer tooling
 
-## Featured Publication — The Scalable Stack
+## ✍️ Featured Publication — The Scalable Stack
 
 > **Deep dives into Java, Low-Level Design, System Design, AI, and scalable software engineering for developers.**
 >
@@ -41,7 +41,7 @@ My core expertise spans **Java, Golang, Spring Boot, microservices, AWS, distrib
 >
 > **[Read The Scalable Stack →](https://thescalablestack.substack.com/)**
 
-## Selected Career Highlights
+## 🏆 Selected Career Highlights
 
 - Helped reduce build and deployment times by **up to 50%** by engineering core components for CI/CD optimization and container-build platforms.
 - Provisioned scalable remote-build infrastructure using **Terraform, AWS ECS Fargate, and Kaniko**.
@@ -52,7 +52,7 @@ My core expertise spans **Java, Golang, Spring Boot, microservices, AWS, distrib
 - Developed observability pipelines for application logs and container metrics using **Prometheus and Grafana**.
 - Earned multiple engineering, performance, leadership, and delivery recognitions across JPMorgan Chase & Co., Oracle, and Mindtree.
 
-## Skills & Technologies
+## 🛠️ Skills & Technologies
 
 <div align="center">
 
@@ -94,30 +94,59 @@ My core expertise spans **Java, Golang, Spring Boot, microservices, AWS, distrib
 
 </div>
 
-## GitHub Activity
+## 📈 GitHub Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulkumarsahu&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6E40&area=true&hide_border=true" width="95%" alt="Rahul Kumar's GitHub contribution graph" />
 </div>
 
-## Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" alt="Contribution snake animation" />
 </div>
 
-## Let's Connect
-
-I enjoy discussing **backend architecture, distributed systems, Java, Golang, platform engineering, cloud infrastructure, and practical AI tooling**.
-
-- **Portfolio:** [rahulkumarsahu.github.io/personal-portfolio](https://rahulkumarsahu.github.io/personal-portfolio/)
-- **LinkedIn:** [linkedin.com/in/rahul-kumar-techie](https://www.linkedin.com/in/rahul-kumar-techie)
-- **Blog:** [The Scalable Stack](https://thescalablestack.substack.com/)
-- **Topmate:** [Book a conversation](https://topmate.io/rahul_kumar_295)
-- **Email:** [rahulkumar060995@gmail.com](mailto:rahulkumar060995@gmail.com?subject=Hello%20Rahul)
+## 🤝 Let's Connect
 
 <div align="center">
 
-**Building reliable systems. Improving developer platforms. Sharing what I learn.**
+### Have an interesting engineering problem or opportunity in mind?
+
+I enjoy connecting with people working on **backend architecture, distributed systems, cloud platforms, developer productivity, and practical AI tooling**.
+
+<p>
+  <a href="https://www.linkedin.com/in/rahul-kumar-techie"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Rahul on LinkedIn" /></a>
+  <a href="mailto:rahulkumar060995@gmail.com?subject=Hello%20Rahul"><img src="https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Rahul" /></a>
+  <a href="https://topmate.io/rahul_kumar_295"><img src="https://img.shields.io/badge/Book_a_Conversation-6C5CE7?style=for-the-badge" alt="Book a conversation on Topmate" /></a>
+</p>
+
+<p>
+  <a href="https://rahulkumarsahu.github.io/personal-portfolio/"><img src="https://img.shields.io/badge/Explore_My_Portfolio-111827?style=flat-square&logo=vercel&logoColor=white" alt="Explore Rahul's portfolio" /></a>
+  <a href="https://thescalablestack.substack.com/"><img src="https://img.shields.io/badge/Read_The_Scalable_Stack-FF6719?style=flat-square&logo=substack&logoColor=white" alt="Read The Scalable Stack" /></a>
+</p>
+
+</div>
+
+<details>
+<summary><strong>💬 What can we talk about?</strong></summary>
+
+<br />
+
+- Designing scalable Java, Golang, and Spring Boot services
+- Distributed systems, microservices, reliability, and observability
+- AWS, Kubernetes, Terraform, CI/CD, and platform engineering
+- System Design and Low-Level Design interview preparation
+- GenAI, MCP servers, and AI-assisted developer tooling
+- Backend engineering careers, mentorship, and knowledge sharing
+
+</details>
+
+<br />
+
+<div align="center">
+
+### Building reliable systems · Improving developer platforms · Sharing what I learn
+
+**Thanks for visiting — let's build something scalable. 🚀**
 
 </div>
