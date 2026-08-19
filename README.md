@@ -2,7 +2,12 @@
 
 <img width="100%" src="assets/rahul_banner.svg" alt="Rahul Kumar — Senior Backend Engineer" />
 
-# Rahul Kumar
+<h1 align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&duration=2200&pause=1000&center=true&vCenter=true&width=500&lines=Rahul+Kumar"
+    alt="Rahul Kumar"
+  />
+</h1>
 
 ### 🚀 Senior Backend Engineer (SDE3) · Distributed Systems · Cloud & Platform Engineering
 
