@@ -1,107 +1,123 @@
 <div align="center">
 
-<img width="100%" src="assets/rahul_banner.svg" alt="header"/>
+<img width="100%" src="assets/rahul_banner.svg" alt="Rahul Kumar — Senior Backend Engineer" />
 
-# Hi there! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="waving hand" height="36" />
+# Rahul Kumar
 
-### I'm **Rahul Kumar**
-#### 🚀 Backend Developer · Devops
+### Senior Backend Engineer (SDE3) · Distributed Systems · Cloud & Platform Engineering
 
-<br/>
+**Software Developer at JPMorgan Chase & Co. · Former Member of Technical Staff at Oracle · 8+ years in backend engineering**
 
-<a href="https://rahulkumarsahu.github.io/personal-portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
-<a href="mailto:rahulkumar060995@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
+<p>
+  <a href="https://rahulkumarsahu.github.io/personal-portfolio/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/rahul-kumar-techie"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://thescalablestack.substack.com/"><img src="https://img.shields.io/badge/The_Scalable_Stack-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="The Scalable Stack" /></a>
+  <a href="https://topmate.io/rahul_kumar_295"><img src="https://img.shields.io/badge/Topmate-6C5CE7?style=for-the-badge&logoColor=white" alt="Topmate" /></a>
+  <a href="mailto:rahulkumar060995@gmail.com?subject=Hello%20Rahul"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Rahul" /></a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=rahulkumarsahu&color=58A6FF&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
 
-<br/>
+## About Me
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
+I am a **Senior Backend Engineer** with **8+ years of experience** designing, building, and operating scalable backend systems, distributed platforms, and cloud-native infrastructure. I currently work at **JPMorgan Chase & Co.** and previously served as a **Member of Technical Staff at Oracle**.
 
-I am a Passionate programmer. Enjoy solving complex coding problems, and learning new programming languages and skills.
+My core expertise spans **Java, Golang, Spring Boot, microservices, AWS, distributed systems, CI/CD, and platform engineering**. I focus on making complex systems faster, more resilient, easier to operate, and more productive for developers.
 
-- 🎲 Software Developer at JPMorgan Chase & Co. || Ex. Member Of Technical Staff @Oracle || <a href="https://topmate.io/rahul_kumar_295">I am on Topmate</a>.
-- 🌱 9 years of experience across Java 8+, Go Lang, Spring, Spring Boot, AWS, and Microservices, with strong exposure to Storage and Cloud Computing (AWS), including Design, Troubleshooting, Implementation, Deployment, and Migrations.
-- 👨‍💻 Current Skills: Java 8+, Go Lang, Reactive Java, Spring Boot, DSA, MySQL, Microservices, AWS Serverless Architecture, Jenkins, Docker, Kubernetes, HELM
-- 📫 Reach me at this [e-mail](mailto:rahulkumar060995@gmail.com?subject=Hi,%20Rahul)
+- **Backend:** Java 8–21+, Golang, Spring Boot, Spring MVC, Reactive Java, REST APIs
+- **Architecture:** Distributed systems, microservices, system design, fault-tolerant services
+- **Cloud & Platform:** AWS, serverless architecture, Terraform, Docker, Kubernetes, Helm, ECS Fargate
+- **Delivery:** CI/CD, Jenkins, container build systems, developer productivity, cloud migrations
+- **Reliability:** Prometheus, Grafana, Redis Sentinel, rate limiting, circuit breakers, caching
+- **AI Engineering:** GenAI, Model Context Protocol (MCP), AI-assisted diagnostics and developer tooling
 
-<br/>
+## Featured Publication — The Scalable Stack
 
-## 🛠️ Skills & Technologies
+> **Deep dives into Java, Low-Level Design, System Design, AI, and scalable software engineering for developers.**
+>
+> I share practical explanations, architecture insights, and lessons from building modern backend and distributed systems.
+>
+> **[Read The Scalable Stack →](https://thescalablestack.substack.com/)**
+
+## Selected Career Highlights
+
+- Helped reduce build and deployment times by **up to 50%** by engineering core components for CI/CD optimization and container-build platforms.
+- Provisioned scalable remote-build infrastructure using **Terraform, AWS ECS Fargate, and Kaniko**.
+- Architected a fault-tolerant **Java and Spring Boot MCP server foundation**, using worker pools and Redis Sentinel for highly available token caching.
+- Strengthened platform resilience with **distributed rate limiting, circuit breakers, caching, and global kill-switch controls**.
+- Built AI-assisted tooling to analyze CI/CD failures, identify likely root causes, and generate actionable remediation guidance.
+- Led and contributed to enterprise cloud migrations, including the movement of **50 TB of data across 15 brands**.
+- Developed observability pipelines for application logs and container metrics using **Prometheus and Grafana**.
+- Earned multiple engineering, performance, leadership, and delivery recognitions across JPMorgan Chase & Co., Oracle, and Mindtree.
+
+## Skills & Technologies
 
 <div align="center">
 
-### ☕ Backend & Core
+### Backend & Architecture
+
 <p>
-<a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/></a>
-<a href="https://golang.org/"><img src="https://img.shields.io/badge/GoLang-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="GoLang"/></a>
-<a href="https://spring.io/projects/spring-boot"><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/></a>
-<a href="#"><img src="https://img.shields.io/badge/DSA-4B0082?style=for-the-badge&logo=neovim&logoColor=white" alt="DSA"/></a>
-<a href="#"><img src="https://img.shields.io/badge/System_Design-1F2937?style=for-the-badge&logo=codeforces&logoColor=white" alt="System Design"/></a>
+  <img src="https://img.shields.io/badge/Java_8--21%2B-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java 8–21+" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Golang" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Reactive_Java-6DB33F?style=flat-square&logo=reactivex&logoColor=white" alt="Reactive Java" />
+  <img src="https://img.shields.io/badge/Microservices-5B21B6?style=flat-square" alt="Microservices" />
+  <img src="https://img.shields.io/badge/Distributed_Systems-1F2937?style=flat-square" alt="Distributed Systems" />
+  <img src="https://img.shields.io/badge/System_Design-334155?style=flat-square" alt="System Design" />
 </p>
 
-### ⚙️ DevOps & Cloud
+### Cloud, Platform & Delivery
+
 <p>
-<a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/></a>
-<a href="https://www.terraform.io/"><img src="https://img.shields.io/badge/DevOps-2496ED?style=for-the-badge&logo=dev.to&logoColor=white" alt="DevOps"/></a>
-<a href="https://www.jenkins.io/"><img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/></a>
-<a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
-<a href="https://kubernetes.io/"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/></a>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" alt="Helm" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins" />
+  <img src="https://img.shields.io/badge/CI%2FCD-2563EB?style=flat-square&logo=githubactions&logoColor=white" alt="CI/CD" />
+  <img src="https://img.shields.io/badge/Platform_Engineering-0F766E?style=flat-square" alt="Platform Engineering" />
 </p>
 
-### 📨 Messaging & Database
-<p>
-<a href="https://kafka.apache.org/"><img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka"/></a>
-<a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Microservices-5B21B6?style=for-the-badge&logo=microgenetics&logoColor=white" alt="Microservices"/></a>
-</p>
+### Data, Observability & AI
 
-### 🎨 Frontend
 <p>
-<a href="https://www.w3.org/html/"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/></a>
-<a href="https://www.w3schools.com/css/"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/></a>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" />
+  <img src="https://img.shields.io/badge/GenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="Generative AI" />
+  <img src="https://img.shields.io/badge/MCP-111827?style=flat-square" alt="Model Context Protocol" />
 </p>
 
 </div>
 
-
-<br/>
-
-## 📊 GitHub Stats
+## GitHub Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulkumarsahu&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6E40&area=true&hide_border=true" width="95%" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulkumarsahu&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6E40&area=true&hide_border=true" width="95%" alt="Rahul Kumar's GitHub contribution graph" />
 </div>
 
-
-<br/>
-
-## 🌐 Connect with Me
+## Contribution Snake
 
 <div align="center">
-
-<a href="https://www.linkedin.com/in/rahul-kumar-933675102/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://www.instagram.com/rahul_kumar_r007/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-
+  <img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" alt="Contribution snake animation" />
 </div>
 
-<br/>
+## Let's Connect
+
+I enjoy discussing **backend architecture, distributed systems, Java, Golang, platform engineering, cloud infrastructure, and practical AI tooling**.
+
+- **Portfolio:** [rahulkumarsahu.github.io/personal-portfolio](https://rahulkumarsahu.github.io/personal-portfolio/)
+- **LinkedIn:** [linkedin.com/in/rahul-kumar-techie](https://www.linkedin.com/in/rahul-kumar-techie)
+- **Blog:** [The Scalable Stack](https://thescalablestack.substack.com/)
+- **Topmate:** [Book a conversation](https://topmate.io/rahul_kumar_295)
+- **Email:** [rahulkumar060995@gmail.com](mailto:rahulkumar060995@gmail.com?subject=Hello%20Rahul)
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=rahulkumarsahu&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
-
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" alt="Snake animation" />
+**Building reliable systems. Improving developer platforms. Sharing what I learn.**
 
 </div>
