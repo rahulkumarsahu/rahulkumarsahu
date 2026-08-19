@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="assets/rahul_banner.svg" alt="Rahul Kumar — Senior Backend Engineer" />
+<img width="100%" src="assets/rahul_banner.png" alt="Rahul Kumar — Senior Backend Engineer" />
 
 <h1 align="center">
   <img
