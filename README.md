@@ -15,6 +15,7 @@
 
 <p>
   <a href="https://rahulkumarsahu.github.io/personal-portfolio/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://rahulkumarsahu.github.io/"><img src="https://img.shields.io/badge/The_System_Design_Atlas-2563EB?style=for-the-badge&logo=githubpages&logoColor=white" alt="The System Design Atlas" /></a>
   <a href="https://www.linkedin.com/in/rahul-kumar-techie"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://thescalablestack.substack.com/"><img src="https://img.shields.io/badge/The_Scalable_Stack-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="The Scalable Stack" /></a>
   <a href="https://topmate.io/rahul_kumar_295"><img src="https://img.shields.io/badge/Topmate-6C5CE7?style=for-the-badge&logoColor=white" alt="Topmate" /></a>
@@ -128,6 +129,7 @@ I enjoy connecting with people working on **backend architecture, distributed sy
 <p>
   <a href="https://rahulkumarsahu.github.io/personal-portfolio/"><img src="https://img.shields.io/badge/Explore_My_Portfolio-111827?style=flat-square&logo=vercel&logoColor=white" alt="Explore Rahul's portfolio" /></a>
   <a href="https://thescalablestack.substack.com/"><img src="https://img.shields.io/badge/Read_The_Scalable_Stack-FF6719?style=flat-square&logo=substack&logoColor=white" alt="Read The Scalable Stack" /></a>
+  <a href="https://rahulkumarsahu.github.io/"><img src="https://img.shields.io/badge/The_System_Design_Atlas-2563EB?style=for-the-badge&logo=githubpages&logoColor=white" alt="The System Design Atlas" /></a>
 </p>
 
 </div>
