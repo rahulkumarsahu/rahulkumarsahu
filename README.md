@@ -103,8 +103,6 @@ My core expertise spans **Java, Golang, Spring Boot, microservices, AWS, distrib
 
 ## 📈 GitHub Activity
 
-<h2>📊 GitHub Stats</h2>
-
 <div align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahulkumarsahu&theme=github_dark"
