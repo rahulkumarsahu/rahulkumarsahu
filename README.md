@@ -103,24 +103,34 @@ My core expertise spans **Java, Golang, Spring Boot, microservices, AWS, distrib
 
 ## 📈 GitHub Activity
 
+<h2>📊 GitHub Stats</h2>
+
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=rahulkumarsahu&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"
-    width="80%"
-    alt="Rahul Kumar's GitHub statistics"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahulkumarsahu&theme=github_dark"
+    width="95%"
+    alt="Rahul Kumar's GitHub profile summary"
   />
 
   <br /><br />
 
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkumarsahu&layout=compact&theme=dark&hide_border=true&langs_count=8"
-    width="45%"
-    alt="Rahul Kumar's most-used programming languages"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rahulkumarsahu&theme=github_dark"
+    width="47%"
+    alt="Rahul Kumar's GitHub statistics"
   />
 
   <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rahulkumarsahu&theme=github_dark"
+    width="47%"
+    alt="Rahul Kumar's most-used programming languages"
+  />
+
+  <br /><br />
+
+  <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=rahulkumarsahu&theme=dark&hide_border=true"
-    width="45%"
+    width="70%"
     alt="Rahul Kumar's GitHub contribution streak"
   />
 </div>
