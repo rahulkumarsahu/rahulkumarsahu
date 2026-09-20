@@ -104,11 +104,13 @@ My core expertise spans **Java, Golang, Spring Boot, microservices, AWS, distrib
 ## 📈 GitHub Activity
 
 <div align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=rahulkumarsahu&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6E40&area=true&hide_border=true"
-    width="95%"
-    alt="Rahul Kumar's GitHub contribution graph"
-  />
+  <a href="https://github.com/rahulkumarsahu">
+    <img
+      src="https://ghchart.rshah.org/58A6FF/rahulkumarsahu"
+      width="95%"
+      alt="Rahul Kumar's GitHub contribution graph"
+    />
+  </a>
 </div>
 
 ## 🐍 Contribution Snake
